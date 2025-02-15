@@ -9,12 +9,12 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>in.nareshit.raghu</groupId>
-	<artifactId>SpringBoot2WebMvcCrudEx</artifactId>
+	<artifactId>spring boot-project</artifactId>
 	<version>1.0</version>
 	<name>SpringBoot2WebMvcCrudEx</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
-		<java.version>11</java.version>
+		<java.version>17</java.version>
 	</properties>
 	<dependencies>
 		<dependency>

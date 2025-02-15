@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>in.nareshit.raghu</groupId>
-	<artifactId>spring boot-project</artifactId>
+	<artifactId>spring-boot-project</artifactId>
 	<version>1.0</version>
 	<name>SpringBoot2WebMvcCrudEx</name>
 	<description>Demo project for Spring Boot</description>

@@ -11,6 +11,7 @@
 	<groupId>in.nareshit.raghu</groupId>
 	<artifactId>spring-boot-project</artifactId>
 	<version>1.0</version>
+	<packaging>jar</packaging>
 	<name>SpringBoot2WebMvcCrudEx</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
